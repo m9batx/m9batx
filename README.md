@@ -3,91 +3,73 @@
 
 I am a Security Engineer  gradated in 2025 from ITMO university form faculty Information security and currently working as junior system administrator
 
+## `> security_toolkit`
 
-<br>
+<div align="center">
 
-<!-- PYTHON -->
+### `// SECURITY & DEVELOPMENT STACK`
 
 <a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" alt="Python"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- YARA -->
+&nbsp;
 
 <a href="https://virustotal.github.io/yara/" target="_blank">
-<img src="https://cdn.simpleicons.org/yara/00FF88" width="55" height="55" alt="YARA"/>
+<img src="https://img.shields.io/badge/YARA-00A86B?style=for-the-badge&logoColor=white" alt="YARA"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- SIGMA -->
+&nbsp;
 
 <a href="https://sigmahq.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/sigma/00FF88" width="55" height="55" alt="Sigma"/>
+<img src="https://img.shields.io/badge/Sigma-000000?style=for-the-badge&logoColor=white" alt="Sigma"/>
 </a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- WAZUH -->
+&nbsp;
 
 <a href="https://wazuh.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/wazuh/00A36C" width="55" height="55" alt="Wazuh"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- DOCKER -->
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="55" height="55" alt="Docker"/>
-</a>
-
-<br><br>
-
-<!-- WIRESHARK -->
-
-<a href="https://www.wireshark.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="55" height="55" alt="Wireshark"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- GNS3 -->
-
-<a href="https://www.gns3.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/gns3/00A9E0" width="55" height="55" alt="GNS3"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- C -->
-
-<a href="https://en.cppreference.com/w/c" target="_blank">
-<img src="https://cdn.simpleicons.org/c/A8B9CC" width="55" height="55" alt="C"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- C++ -->
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="55" height="55" alt="C++"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<!-- VOLATILITY -->
-
-<a href="https://volatilityfoundation.org/" target="_blank">
-<img src="https://cdn.simpleicons.org/volatility/00FF88" width="55" height="55" alt="Volatility"/>
-</a>
-
-<br><br>
-
-<!-- LINKEDIN -->
-
-<a href="https://www.linkedin.com/in/mohammedbekhit" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="65" height="65" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Wazuh-00A36C?style=for-the-badge&logoColor=white" alt="Wazuh"/>
 </a>
 
 <br>
 
-
-
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </a>
+&nbsp;
+
+<a href="https://www.wireshark.org/" target="_blank">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+</a>
+&nbsp;
+
+<a href="https://www.gns3.com/" target="_blank">
+<img src="https://img.shields.io/badge/GNS3-00A9E0?style=for-the-badge&logoColor=white" alt="GNS3"/>
+</a>
+
+<br>
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+</a>
+&nbsp;
+
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+</a>
+&nbsp;
+
+<a href="https://volatilityfoundation.org/" target="_blank">
+<img src="https://img.shields.io/badge/Volatility-111111?style=for-the-badge&logoColor=white" alt="Volatility"/>
+</a>
+
+<br><br>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br><br>
+
+`[ PYTHON ]` ` [ YARA ]` ` [ SIGMA ]` ` [ WAZUH ]`
+`[ DOCKER ]` ` [ WIRESHARK ]` ` [ GNS3 ]`
+`[ C ]` ` [ C++ ]` ` [ VOLATILITY ]`
 
 </div>
