@@ -3,11 +3,10 @@
 
 I am a Security Engineer  gradated in 2025 from ITMO university form faculty Information security and currently working as junior system administrator
 
-## `> security_toolkit`
 
 <div align="center">
 
-### `// SECURITY & DEVELOPMENT STACK`
+### ``
 
 <a href="https://www.python.org/" target="_blank">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
