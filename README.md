@@ -1,7 +1,7 @@
 # HI :) It's Medy 
 ### Cybersecurity | Network Security
 
-I am a Security Engineer  gradated in 2025 from ITMO university form faculty Information security and currently working as junior system administrator
+I am a Security Engineer  gradated in 2025 from ITMO university form faculty of Information security and currently working as junior system administrator
 
 
 <div align="center">
