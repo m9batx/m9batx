@@ -4,12 +4,6 @@
 I am a Security Engineer  gradated in 2025 from ITMO university form faculty Information security and currently working as junior system administrator
 
 
-# `> security_toolkit`
-
-<div align="center">
-
-### `// TOOLS & TECHNOLOGIES`
-
 <br>
 
 <!-- PYTHON -->
@@ -86,21 +80,13 @@ I am a Security Engineer  gradated in 2025 from ITMO university form faculty Inf
 
 <!-- LINKEDIN -->
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/mohammedbekhit" target="_blank">
 <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="65" height="65" alt="LinkedIn"/>
 </a>
 
 <br>
 
-`PYTHON`   `YARA`   `SIGMA`   `WAZUH`   `DOCKER`
 
-`WIRESHARK`   `GNS3`   `C`   `C++`   `VOLATILITY`
-
-<br><br>
-
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-
-**↗ CONNECT WITH ME ON LINKEDIN**
 
 </a>
 
