@@ -62,14 +62,10 @@ I am a Security Engineer  gradated in 2025 from ITMO university form faculty Inf
 
 <br><br>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/mohammedbekhit/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br><br>
-
-`[ PYTHON ]` ` [ YARA ]` ` [ SIGMA ]` ` [ WAZUH ]`
-`[ DOCKER ]` ` [ WIRESHARK ]` ` [ GNS3 ]`
-`[ C ]` ` [ C++ ]` ` [ VOLATILITY ]`
 
 </div>
