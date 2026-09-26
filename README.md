@@ -1,4 +1,4 @@
-# HI :) It's Medy 
+# Hi :) It's Mada
 ### Cybersecurity | Network Security
 
 I am a Security Engineer  gradated in 2025 from ITMO university from faculty of Information security and currently working as junior system administrator
